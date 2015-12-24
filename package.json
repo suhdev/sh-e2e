@@ -1,0 +1,26 @@
+{
+  "name": "sh-e2e",
+  "version": "1.0.0",
+  "description": "Generates protractor e2e scenario from HTML. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/sh-e2e.git"
+  },
+  "keywords": [
+    "e2e",
+    "protractor",
+    "selenium",
+    "web",
+    "driver."
+  ],
+  "author": "Suhail Abood <suhail.abood@gmail.com> (suhailabood.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/sh-e2e/issues"
+  },
+  "homepage": "https://github.com/suhdev/sh-e2e#readme"
+}
